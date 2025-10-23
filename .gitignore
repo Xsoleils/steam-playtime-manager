@@ -1,0 +1,68 @@
+# Steam Playtime Manager - Git Ignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Application Specific Files
+*.log
+*.db
+*.json
+*.pkl
+.secret.key
+.recovery_state.json
+
+# Config files (with sensitive data)
+config_ultra.json
+profiles_ultra.json
+cache_ultra.json
+scheduler_ultra.json
+ml_model_ultra.pkl
+steam_manager_ultra.db
+
+# Backups
+*.backup
+*.bak
+
+# Screenshots
+screenshot_*.png
+
+# Temporary files
+*.tmp
+*.temp
