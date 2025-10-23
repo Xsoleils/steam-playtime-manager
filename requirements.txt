@@ -1,0 +1,29 @@
+# Steam Playtime Manager Pro - Requirements
+# Python 3.8+
+
+# Core Dependencies
+requests>=2.31.0
+psutil>=5.9.5
+pygetwindow>=0.0.9
+
+# GUI Framework
+customtkinter>=5.2.0
+Pillow>=10.0.0
+
+# Data & Analytics
+matplotlib>=3.7.2
+numpy>=1.24.3
+
+# Security & Encryption
+cryptography>=41.0.3
+
+# Async & Networking
+aiohttp>=3.8.5
+
+# Optional: For better notifications (Windows)
+win10toast>=0.9
+
+# Optional: For development
+# pytest>=7.4.0
+# pylint>=2.17.4
+# black>=23.3.0
