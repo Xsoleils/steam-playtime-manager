@@ -4,7 +4,7 @@
 
 **Yapay Zeka destekli, profesyonel Steam oyun süresi yönetim aracı**
 
-[Özellikler](#-özellikler) • [Kurulum](#-kurulum) • [Kullanım](#-kullanım) • [Ekran Görüntüleri](#-ekran-görüntüleri) • [SSS](#-sık-sorulan-sorular)
+[Özellikler](#-özellikler) • [Kurulum](#-kurulum) • [Kullanım](#-kullanım)  • [SSS](#-sık-sorulan-sorular)
 
 </div>
 
